@@ -8,4 +8,4 @@ display.show(Image.YES)
 while True:
     dist = rf.distance_cm()
     print(int(dist))
-    sleep(10)
+    sleep(50)

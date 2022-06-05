@@ -9,8 +9,8 @@ They are intended to be used on a Micro:Bit (V1 or V2) with a Grove Interface bo
 - Speaker
 - LED
 - Light Sensor
-
-Script for the following Grove modules:
 - Guesture Sensor
 - Range Finder
+
+Script for the following Grove module is not implemented yet:
 - 4 digits 7 segment display

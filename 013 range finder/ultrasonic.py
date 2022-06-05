@@ -32,5 +32,4 @@ class Rangefinder:
 
         stop = utime.ticks_us()
         distance = (stop - start) * 343 / 20000
-        print(stop, start)
         return distance

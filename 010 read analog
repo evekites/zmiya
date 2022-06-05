@@ -1,0 +1,6 @@
+from microbit import *
+
+while True:
+    pinValue=pin0.read_analog()
+    print(pinValue)
+    sleep(100)
